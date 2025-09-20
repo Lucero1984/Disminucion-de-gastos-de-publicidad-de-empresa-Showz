@@ -1,4 +1,4 @@
-# 📊 Disminucion-de-gastos-de-publicidad-de-empresa-Showz
+# 📊 Disminucion de gastos de publicidad de empresa Showz
 
 El objetivo de este proyecto es optimizar los gastos de marketing de empresa Showz mediante el análisis de datos de visitas, pedidos y costos publicitarios. El estudio busca comprender el comportamiento del usuario, identificar fuentes de adquisición rentables y calcular métricas clave como el Costo de Adquisición de Clientes (CAC), el Valor de Vida del Cliente (LTV) y el Retorno de la Inversión en Marketing (ROMI).
 
